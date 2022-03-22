@@ -1,0 +1,7 @@
+D:\GIT\APIASP.NETCoreEF\apief\obj\Debug\net6.0\apief.csproj.AssemblyReference.cache
+D:\GIT\APIASP.NETCoreEF\apief\obj\Debug\net6.0\apief.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\APIASP.NETCoreEF\apief\obj\Debug\net6.0\apief.AssemblyInfoInputs.cache
+D:\GIT\APIASP.NETCoreEF\apief\obj\Debug\net6.0\apief.AssemblyInfo.cs
+D:\GIT\APIASP.NETCoreEF\apief\obj\Debug\net6.0\apief.csproj.CoreCompileInputs.cache
+D:\GIT\APIASP.NETCoreEF\apief\obj\Debug\net6.0\apief.MvcApplicationPartsAssemblyInfo.cs
+D:\GIT\APIASP.NETCoreEF\apief\obj\Debug\net6.0\apief.MvcApplicationPartsAssemblyInfo.cache
